@@ -1,0 +1,2 @@
+Creating a login page using HTML and CSS is a common task in web development. The login page is an essential part of many websites and applications, providing a secure gateway for users to access their accounts. Below is a simple example of how you can create a basic login page using HTML and CSS.
+This code creates a simple login page with a white background and a form in the center. The form has two input fields for the username and password, respectively, and a submit button. The CSS code styles the form to make it look more visually appealing.
